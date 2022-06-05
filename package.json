@@ -1,0 +1,17 @@
+{
+  "name": "webscrap",
+  "version": "1.0.0",
+  "description": "webscrapping test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "shivao",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "nightmare": "^3.0.2"
+  }
+}
